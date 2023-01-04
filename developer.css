@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pimary{
+    color: #FD6E0A;
+}
+/* header and navigation stayl */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+
