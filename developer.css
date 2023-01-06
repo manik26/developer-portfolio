@@ -150,3 +150,22 @@ main{
 .margin{
     margin-top: 20px;
 }
+/* footer styels */
+.footer-flex{
+    display: flex;
+    background-color: rgb(185, 209, 201);
+    padding: 130px 200px;
+    gap: 150px;
+}
+.footer-flex .about-title{
+    text-align: left;
+}
+.footer-flex input[type="text"],input[type="email"],textarea{
+    margin-bottom: 25px;
+    width: 100%;
+    padding: 18px 30px;
+    border: 0;
+}
+input{
+    height: 65px;
+}
