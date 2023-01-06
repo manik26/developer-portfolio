@@ -129,3 +129,24 @@ main{
     font-size: 17px;
     font-weight: 520;
 }
+/* resume styles */
+.resume-man{
+    display: flex;
+    gap: 30px;
+}
+.resume-titel{
+    font-size: 28px;
+    font-weight:700;
+    margin-bottom: 30px;
+}
+.resume-master{
+    font-size: 22px;
+    margin-bottom: 8px;
+}
+.resume-harvard{
+    font-size: 19px;
+    margin-bottom: 12px;
+}
+.margin{
+    margin-top: 20px;
+}
